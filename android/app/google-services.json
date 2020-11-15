@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560377025724",
+    "firebase_url": "https://flood-prediction-cbd3f.firebaseio.com",
+    "project_id": "flood-prediction-cbd3f",
+    "storage_bucket": "flood-prediction-cbd3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560377025724:android:9bc7a1606a16a92df66cb9",
+        "android_client_info": {
+          "package_name": "co.sudarshansj.flood_predictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560377025724-in186q7039h65pcjt6doopgkdt524srh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq7H_oGVkKiulg7zRdvwOqCB3YXEXjq8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560377025724-in186q7039h65pcjt6doopgkdt524srh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
